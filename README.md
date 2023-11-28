@@ -46,21 +46,21 @@ Screenshots of the GUI are available in the Git repository for reference.
 
 ## Here is Different Cases of Restaurant Recommendation System : 
 **1.GUI SCREEN**: 
-![alt text](ScreenShots/restaurant with gui 1 .png "Example")
+![alt text](ScreenShots/restaurantwithgui1.png "Example")
 
 **2.CASE OF WITHOUT ANY INPUT :**
-
+![alt text](ScreenShots/restaurantwithgui2.png "Example")
 
 **3.CASE OF SHOWING OUTPUT :**
+![alt text](ScreenShots/restaurantwithgui3.png "Example")
 
+**4.CASE OF INVALID INPUT:**
 
-**4.CASE OF NOT VALID INPUT:**
-
-
+![alt text](ScreenShots/restaurantwithgui4.png "Example")
 ## Here is Different Cases of Test Cases File: 
 
 **1.TEST CASES FILE INPUT :**
-
+![alt text](ScreenShots/testfile1.png "Example")
 
 **2.TEST CASES EXCUETION SUMMARY :**
-
+![alt text](ScreenShots/testfile2.png "Example")
