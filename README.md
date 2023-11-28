@@ -60,7 +60,7 @@ Screenshots of the GUI are available in the Git repository for reference.
 ## Here is Different Cases of Test Cases File: 
 
 **1.TEST CASES FILE INPUT :**
-![alt text](ScreenShots/testfile1.png "Example")
+![alt text](ScreenShots/testfile.png "Example")
 
 **2.TEST CASES EXCUETION SUMMARY :**
 ![alt text](ScreenShots/testfile2.png "Example")
