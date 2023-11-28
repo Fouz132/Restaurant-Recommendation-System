@@ -46,7 +46,7 @@ Screenshots of the GUI are available in the Git repository for reference.
 
 ## Here is Different Cases of Restaurant Recommendation System : 
 **1.GUI SCREEN**: 
-![alt text](https://raw.githubusercontent.com/faizaladhitama/Hierarchical-Multi-Label-Classification-API/master/Capture.JPG "Example")
+![alt text](ScreenShots/restaurant with gui 1 .png "Example")
 
 **2.CASE OF WITHOUT ANY INPUT :**
 
